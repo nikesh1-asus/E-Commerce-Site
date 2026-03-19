@@ -171,5 +171,12 @@ Feel free to fork the repo and submit a pull request.
 This project is licensed under the MIT License.
 
 ---
+## 📦 Future Improvements
+- Payment gateway integration (Stripe/PayPal) — planned for future development
+- Product reviews & ratings
+- Search and filtering
+- REST API with Django REST Framework
+- Wishlist functionality
+- Email notifications
 
-If you want, I can tailor this README specifically to your exact project structure (apps, features you implemented, payment system, APIs, etc.).
+- Payment gateway integration (Stripe/PayPal) — currently not implemented, but planned for future development
